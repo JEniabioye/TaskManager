@@ -22,7 +22,7 @@ personal task lists (CRUD operations).
   
 ## Setup Instructions
 ### 1. Clone the repository
-git clone https://github.com/your-username/taskmanager.git
+git clone https://github.com/JEniabioye/taskmanager.git
 cd taskmanager
 ### 2. Create a virtual environment
 python -m venv myenv
